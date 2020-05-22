@@ -1,0 +1,1 @@
+ssh public key- diretory: /root/.ssh/id_rsa.pub
